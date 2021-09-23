@@ -1,2 +1,2 @@
-# 10
-10. kapituluko adibideak
+#  Sareetan zehar dantzan Java erabiliz: 10. kapituluko adibideak
+Hemen aurkezpen moduko testua

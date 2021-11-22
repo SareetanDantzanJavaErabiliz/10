@@ -3,10 +3,10 @@ Hamargarren kapituluan Javako bildumak aurkezten dira. Bildumak objektu-multzoak
 
 Biltegi honetako karpeta bakoitza kapituluko adibide bati dagokio. Hona hemen adibide bakoitzaren kokapena:
 
-- Adibidealist: . orr.
-- Arbolak: . orr.
-- Dantzaiakordenatzen: . orr.
-- Hashtaulak: . orr.
-- Ordenazioa: . orr.
-- Setadibidea: . orr.
-- Zerrendakateatua: . orr.
+- Adibidealist: 235. orr.
+- Arbolak: 250. orr.
+- Dantzaiakordenatzen: 259. orr.
+- Hashtaulak: 254. orr.
+- Ordenazioa: 256. orr.
+- Setadibidea: 241. orr.
+- Zerrendakateatua: 247. orr.

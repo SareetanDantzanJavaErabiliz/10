@@ -10,3 +10,7 @@ Biltegi honetako karpeta bakoitza kapituluko adibide bati dagokio. Hona hemen ad
 - Ordenazioa: 256. orr.
 - Setadibidea: 241. orr.
 - Zerrendakateatua: 247. orr.
+
+
+| [Liburuaren aurkezpena](https://youtu.be/b7Lp1WZJflE) | [Liburuaren erabilpena](https://youtu.be/xtkatKohanU) |
+| ------------- | ------------- |
